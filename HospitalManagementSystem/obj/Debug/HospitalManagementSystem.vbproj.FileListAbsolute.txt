@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Resources.resources
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.xml
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Form1.resources
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.xml
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.OPD.resources
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Lab.resources
+C:\Users\Admin\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Doctor.resources
